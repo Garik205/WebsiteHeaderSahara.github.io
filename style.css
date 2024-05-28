@@ -147,7 +147,16 @@ h5
     text-shadow: 0 0 5px #000;
 }
 
+button
+{
+    cursor: pointer;
+    transition: 0.2s ease-in;
+}
 
+button:hover
+{
+    transform: scale(0.9);
+}
 
 
 
